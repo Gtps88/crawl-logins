@@ -1,3 +1,3 @@
 module.exports = {
-    name: 'GrowPlus',   // name of the server
+    name: 'CrawlPS',   // name of the server
 };
